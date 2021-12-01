@@ -8,4 +8,6 @@ This handles multiple timers at once, displaying the one with the shortest time.
 
 Displays the time left on a four-letter phat. Code runs on a Raspberry Pi Zero W.
 
+![Image](./images/Multi-Timer.png)
+
 
